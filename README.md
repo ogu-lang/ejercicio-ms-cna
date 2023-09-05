@@ -3,7 +3,7 @@
 ## Instrucciones
 
 1. Hacer un fork de este repo
-2. En el fork crear una carpeta con su nombre, en esta carpeta debes dejar un archivo llamado `RESPUESTA.MD` con las respuestas al ejercicio, además debe dejar el diagrama solicitado en formato PDF, PNG, o JPG. El archivo `RESPUESTA.MD` debe contener el nombre de los miembros del grupo que contestaron el ejercicio.
+2. En el fork crear un archivo llamado `RESPUESTA.MD` con las respuestas al ejercicio, además debe dejar el diagrama solicitado en formato PDF, PNG, o JPG. El archivo `RESPUESTA.MD` debe contener el nombre de los miembros del grupo que contestaron el ejercicio.
 
 ## Ejercicio: Modelar Micro Servicios
 
@@ -29,8 +29,8 @@ Funciona del siguiente modo:
 
 Usted ha sido contratado como arquitecto para diseñar una nueva plataforma para CraftStore usando micro servicios.
 
-1. Haga una descomposición por dominios o por capacidades del negocio y de acuerdo a esta proponga la arquitectura de micro servicios inicial. Dibuje un diagrama con los micro servicios involucrados, dibujando interconexiones entre estos, si es que son necesarias. Deje este dibujo como un archivo PDF, PNG o JPG, en la carpeta con su respuesta. Considere micro servicios genéricos y las integraciones con terceras partes.
-2. Cree un archivo `RESPUESTA.MD` en la carpeta indicada en las instrucciones y responda allí lo siguiente:
+1. Haga una descomposición por dominios o por capacidades del negocio y de acuerdo a esta proponga la arquitectura de micro servicios inicial. Dibuje un diagrama con los micro servicios involucrados, dibujando interconexiones entre estos, si es que son necesarias. Deje este dibujo como un archivo PDF, PNG o JPG, junto con su respuesta. Considere micro servicios genéricos y las integraciones con terceras partes.
+2. Cree un archivo `RESPUESTA.MD` y responda allí lo siguiente:
    - Liste los micro servicios necesarios y por cada uno describa su función principal.
    - Indique cuantos equipos necesitaría para soportar este desarrollo.
    - ¿Que patrón usaría para gestionar el tràfico entrante: API Gateway o Backends x Frontends? Justifique su respuesta
