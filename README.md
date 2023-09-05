@@ -4,7 +4,8 @@
 
 1. Hacer un fork de este repo
 2. En el fork crear un archivo llamado `RESPUESTA.MD` con las respuestas al ejercicio, además debe dejar el diagrama solicitado en formato PDF, PNG, o JPG. El archivo `RESPUESTA.MD` debe contener el nombre de los miembros del grupo que contestaron el ejercicio.
-
+3. Hacer un Pull Request con la respuestas
+   
 ## Ejercicio: Modelar Micro Servicios
 
 ### Contexto 
